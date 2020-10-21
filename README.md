@@ -15,11 +15,13 @@ Keyboard form factor:
 
 While the 40% form factor is well covered
 by olkb.com with Planck and Proenic,
-other size are very non-standard.
+and keyboard layout musings by
+[andy](https://www.smittey.co.uk/the-planck-key-theory),
+but the other sizes and form factors are very non-standard.
 
 While the default 60% Layout contains mere 61 keys
 in 5 rows of 15U, ortholinear layout can contain
-up to 75 keys in total in the same enclosure.
+up to 75 keys total in the same enclosure.
 
 The key count can be reduced by a bigger spacebar,
 2U backspace, large shift or whatever some people prefer.
