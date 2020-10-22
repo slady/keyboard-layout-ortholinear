@@ -64,11 +64,15 @@ Or the 75 size with arrows:
 Or the navless with arrow keys:
 ![keyboard-layout-ortholinear-navless-complete-arrows.png](images/keyboard-layout-ortholinear-navless-complete-arrows.png)
 
-### Other
+### Nav keys
+
+We can keep original Ctrl, Alt, Win and Menu keys together with the Space Bar.
 
 ![keyboard-layout-ortholinear-60-complete.png](images/keyboard-layout-ortholinear-60-complete.png)
 ![keyboard-layout-ortholinear-75-complete1.png](images/keyboard-layout-ortholinear-75-complete1.png)
 ![keyboard-layout-ortholinear-75-complete2.png](images/keyboard-layout-ortholinear-75-complete2.png)
+
+But this layout repeats several of the nav keys if put on the full size keyboard:
 ![keyboard-layout-ortholinear-full-complete.png](images/keyboard-layout-ortholinear-full-complete.png)
 ![keyboard-layout-ortholinear-navless-complete.png](images/keyboard-layout-ortholinear-navless-complete.png)
 
