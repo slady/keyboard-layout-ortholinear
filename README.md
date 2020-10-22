@@ -40,14 +40,18 @@ Some users want larger caps even in the ortholinear layout.
 To see this on the 60%:
 
 ![keyboard-layout-ortholinear-60-2u-widecaps.png](images/keyboard-layout-ortholinear-60-2u-widecaps.png)
-Or Full Size:
+Or The 2U Full Size:
 
 ![keyboard-layout-ortholinear-full-2u-widecaps.png](images/keyboard-layout-ortholinear-full-2u-widecaps.png)
 
 ### Original keycaps
-You can even keep your original keycap set!
+You can even keep your original keycap set on the full size!
+Though the plate would be a little misaligned.
 
 ![keyboard-layout-ortholinear-full-original-keycaps.png](images/keyboard-layout-ortholinear-full-original-keycaps.png)
+Or you can replace the left keys with 1U replacements and left-align the keyboard.
+![keyboard-layout-ortholinear-full-leftaligned1.png](images/keyboard-layout-ortholinear-full-leftaligned1.png)
+![keyboard-layout-ortholinear-full-leftaligned2.png](images/keyboard-layout-ortholinear-full-leftaligned2.png)
 
 ### Other
 ![keyboard-layout-ortholinear-60-complete-arrows-fn1.png](images/keyboard-layout-ortholinear-60-complete-arrows-fn1.png)
@@ -59,8 +63,6 @@ You can even keep your original keycap set!
 ![keyboard-layout-ortholinear-75-complete1.png](images/keyboard-layout-ortholinear-75-complete1.png)
 ![keyboard-layout-ortholinear-75-complete2.png](images/keyboard-layout-ortholinear-75-complete2.png)
 ![keyboard-layout-ortholinear-full-complete.png](images/keyboard-layout-ortholinear-full-complete.png)
-![keyboard-layout-ortholinear-full-leftaligned1.png](images/keyboard-layout-ortholinear-full-leftaligned1.png)
-![keyboard-layout-ortholinear-full-leftaligned2.png](images/keyboard-layout-ortholinear-full-leftaligned2.png)
 ![keyboard-layout-ortholinear-navless-complete-arrows.png](images/keyboard-layout-ortholinear-navless-complete-arrows.png)
 ![keyboard-layout-ortholinear-navless-complete.png](images/keyboard-layout-ortholinear-navless-complete.png)
 
