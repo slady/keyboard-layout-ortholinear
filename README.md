@@ -74,5 +74,8 @@ We can keep original Ctrl, Alt, Win and Menu keys together with the Space Bar.
 
 But this layout repeats several of the nav keys if put on the full size keyboard:
 ![keyboard-layout-ortholinear-full-complete.png](images/keyboard-layout-ortholinear-full-complete.png)
+
+Better to be put on a navless:
+
 ![keyboard-layout-ortholinear-navless-complete.png](images/keyboard-layout-ortholinear-navless-complete.png)
 
