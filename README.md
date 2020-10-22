@@ -35,8 +35,8 @@ The key count can be reduced by a bigger spacebar,
 ## Images
 ![keyboard-layout-ortholinear-60-2u-widecaps.png](images/keyboard-layout-ortholinear-60-2u-widecaps.png)
 ![keyboard-layout-ortholinear-60-complete-arrows-fn1.png](images/keyboard-layout-ortholinear-60-complete-arrows-fn1.png)
-![keyboard-layout-ortholinear-60-complete-arrows-fn2.png](images/keyboard-layout-ortholinear-60-complete-arrows-fn2.png)
-![keyboard-layout-ortholinear-60-complete-arrows.png](images/keyboard-layout-ortholinear-60-complete-arrows.png)
+![keyboard-layout-ortholinear-60-complete-arrows-fn2.png](images/keyboard-layout-ortholinear-60-complete-arrows2.png)
+![keyboard-layout-ortholinear-60-complete-arrows.png](images/keyboard-layout-ortholinear-60-complete-arrows1.png)
 ![keyboard-layout-ortholinear-60-complete.png](images/keyboard-layout-ortholinear-60-complete.png)
 ![keyboard-layout-ortholinear-75-complete-arrows.png](images/keyboard-layout-ortholinear-75-complete-arrows.png)
 ![keyboard-layout-ortholinear-75-complete1.png](images/keyboard-layout-ortholinear-75-complete1.png)
