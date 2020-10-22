@@ -33,7 +33,23 @@ The key count can be reduced by a bigger spacebar,
 * all keys in 1U
 
 ## Images
+Some users want larger caps even in the ortholinear layout.
+
+### 2U
+
+To see this on the 60%:
+
 ![keyboard-layout-ortholinear-60-2u-widecaps.png](images/keyboard-layout-ortholinear-60-2u-widecaps.png)
+Or Full Size:
+
+![keyboard-layout-ortholinear-full-2u-widecaps.png](images/keyboard-layout-ortholinear-full-2u-widecaps.png)
+
+### Original keycaps
+You can even keep your original keycap set!
+
+![keyboard-layout-ortholinear-full-original-keycaps.png](images/keyboard-layout-ortholinear-full-original-keycaps.png)
+
+### Other
 ![keyboard-layout-ortholinear-60-complete-arrows-fn1.png](images/keyboard-layout-ortholinear-60-complete-arrows-fn1.png)
 ![keyboard-layout-ortholinear-60-complete-arrows1.png](images/keyboard-layout-ortholinear-60-complete-arrows1.png)
 ![keyboard-layout-ortholinear-60-complete-arrows2.png](images/keyboard-layout-ortholinear-60-complete-arrows2.png)
@@ -42,11 +58,9 @@ The key count can be reduced by a bigger spacebar,
 ![keyboard-layout-ortholinear-75-complete-arrows.png](images/keyboard-layout-ortholinear-75-complete-arrows.png)
 ![keyboard-layout-ortholinear-75-complete1.png](images/keyboard-layout-ortholinear-75-complete1.png)
 ![keyboard-layout-ortholinear-75-complete2.png](images/keyboard-layout-ortholinear-75-complete2.png)
-![keyboard-layout-ortholinear-full-2u-widecaps.png](images/keyboard-layout-ortholinear-full-2u-widecaps.png)
 ![keyboard-layout-ortholinear-full-complete.png](images/keyboard-layout-ortholinear-full-complete.png)
 ![keyboard-layout-ortholinear-full-leftaligned1.png](images/keyboard-layout-ortholinear-full-leftaligned1.png)
 ![keyboard-layout-ortholinear-full-leftaligned2.png](images/keyboard-layout-ortholinear-full-leftaligned2.png)
-![keyboard-layout-ortholinear-full-original-keycaps.png](images/keyboard-layout-ortholinear-full-original-keycaps.png)
 ![keyboard-layout-ortholinear-navless-complete-arrows.png](images/keyboard-layout-ortholinear-navless-complete-arrows.png)
 ![keyboard-layout-ortholinear-navless-complete.png](images/keyboard-layout-ortholinear-navless-complete.png)
 
