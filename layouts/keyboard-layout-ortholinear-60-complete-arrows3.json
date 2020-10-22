@@ -1,0 +1,5 @@
+["~\n`\n\n\n\n\n\nEsc","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7\n/","*\n8\n*","(\n9\n-",")\n0","_\n-","+\n=","BkSp","Delete"],
+["Tab","Q","W","E","R","T","Y\n\n7\nHome","U\n\n8\n↑","I\n\n9\nPgUp","O\n\n+","P","{\n[","}\n]","|\n\\","Insert"],
+["Caps Lock\nNum","A","S","D","F","G","H\n\n4\n←","J\n\n5","K\n\n6\n→","L\n\n+",":\n;","\"\n'","Enter","Home","End"],
+["Shift","Z","X","C","V","B","N\n\n1\nEnd","M\n\n2\n↓","<\n,\n3\nPgDn",">\n.\n\nEnter","?\n/","Shift","PgUp","↑","PgDn"],
+["Ctrl","Win","Alt",{a:7,w:2},"",{a:4},"Fn",{w:2},"0\nIns","Alt\n\n.\nDel","Win\n\n\nEnter","Menu","Ctrl","←","↓","→"]
