@@ -53,16 +53,22 @@ Or you can replace the left keys with 1U replacements and left-align the keyboar
 ![keyboard-layout-ortholinear-full-leftaligned1.png](images/keyboard-layout-ortholinear-full-leftaligned1.png)
 ![keyboard-layout-ortholinear-full-leftaligned2.png](images/keyboard-layout-ortholinear-full-leftaligned2.png)
 
-### Other
+### Arrows
+There are several ways, if you want to add the arrow cluster to 60%:
 ![keyboard-layout-ortholinear-60-complete-arrows-fn1.png](images/keyboard-layout-ortholinear-60-complete-arrows-fn1.png)
 ![keyboard-layout-ortholinear-60-complete-arrows1.png](images/keyboard-layout-ortholinear-60-complete-arrows1.png)
 ![keyboard-layout-ortholinear-60-complete-arrows2.png](images/keyboard-layout-ortholinear-60-complete-arrows2.png)
 ![keyboard-layout-ortholinear-60-complete-arrows3.png](images/keyboard-layout-ortholinear-60-complete-arrows3.png)
-![keyboard-layout-ortholinear-60-complete.png](images/keyboard-layout-ortholinear-60-complete.png)
+Or the 75 size with arrows:
 ![keyboard-layout-ortholinear-75-complete-arrows.png](images/keyboard-layout-ortholinear-75-complete-arrows.png)
+Or the navless with arrow keys:
+![keyboard-layout-ortholinear-navless-complete-arrows.png](images/keyboard-layout-ortholinear-navless-complete-arrows.png)
+
+### Other
+
+![keyboard-layout-ortholinear-60-complete.png](images/keyboard-layout-ortholinear-60-complete.png)
 ![keyboard-layout-ortholinear-75-complete1.png](images/keyboard-layout-ortholinear-75-complete1.png)
 ![keyboard-layout-ortholinear-75-complete2.png](images/keyboard-layout-ortholinear-75-complete2.png)
 ![keyboard-layout-ortholinear-full-complete.png](images/keyboard-layout-ortholinear-full-complete.png)
-![keyboard-layout-ortholinear-navless-complete-arrows.png](images/keyboard-layout-ortholinear-navless-complete-arrows.png)
 ![keyboard-layout-ortholinear-navless-complete.png](images/keyboard-layout-ortholinear-navless-complete.png)
 
