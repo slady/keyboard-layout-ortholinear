@@ -5,7 +5,7 @@ we need to take small steps and try consider a lot of different options.
 
 Different people prefer different things in different aspects of keyboards.
 
-Keyboard form factor:
+## Keyboard form factors
 * 40%
 * 60%
 * 75%
@@ -26,8 +26,26 @@ up to 75 keys total in the same enclosure.
 The key count can be reduced by a bigger spacebar,
 2U backspace, large shift or whatever some people prefer.
 
-Key sizes:
+## Key sizes
 * Keeping the original keycap set
 * 2U spacebar or 2U backspace etc.
 * 2U for all special keys
 * all keys in 1U
+
+## Images
+![keyboard-layout-ortholinear-60-2u-widecaps.png](img/keyboard-layout-ortholinear-60-2u-widecaps.png)
+![keyboard-layout-ortholinear-60-complete-arrows-fn1.png](img/keyboard-layout-ortholinear-60-complete-arrows-fn1.png)
+![keyboard-layout-ortholinear-60-complete-arrows-fn2.png](img/keyboard-layout-ortholinear-60-complete-arrows-fn2.png)
+![keyboard-layout-ortholinear-60-complete-arrows.png](img/keyboard-layout-ortholinear-60-complete-arrows.png)
+![keyboard-layout-ortholinear-60-complete.png](img/keyboard-layout-ortholinear-60-complete.png)
+![keyboard-layout-ortholinear-75-complete-arrows.png](img/keyboard-layout-ortholinear-75-complete-arrows.png)
+![keyboard-layout-ortholinear-75-complete1.png](img/keyboard-layout-ortholinear-75-complete1.png)
+![keyboard-layout-ortholinear-75-complete2.png](img/keyboard-layout-ortholinear-75-complete2.png)
+![keyboard-layout-ortholinear-full-2u-widecaps.png](img/keyboard-layout-ortholinear-full-2u-widecaps.png)
+![keyboard-layout-ortholinear-full-complete.png](img/keyboard-layout-ortholinear-full-complete.png)
+![keyboard-layout-ortholinear-full-leftaligned1.png](img/keyboard-layout-ortholinear-full-leftaligned1.png)
+![keyboard-layout-ortholinear-full-leftaligned2.png](img/keyboard-layout-ortholinear-full-leftaligned2.png)
+![keyboard-layout-ortholinear-full-original-keycaps.png](img/keyboard-layout-ortholinear-full-original-keycaps.png)
+![keyboard-layout-ortholinear-navless-complete-arrows.png](img/keyboard-layout-ortholinear-navless-complete-arrows.png)
+![keyboard-layout-ortholinear-navless-complete.png](img/keyboard-layout-ortholinear-navless-complete.png)
+
