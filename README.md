@@ -79,3 +79,8 @@ Better to be put on a navless:
 
 ![keyboard-layout-ortholinear-navless-complete.png](images/keyboard-layout-ortholinear-navless-complete.png)
 
+# Ortho Linear Prism
+
+Prism the ortholinear keyboard:
+
+![keyboard-layout-ortholinear-prism.png](images/keyboard-layout-ortholinear-prism.png)
