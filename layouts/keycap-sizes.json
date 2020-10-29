@@ -4,5 +4,5 @@
 [{w:2},"Backspace",{w:2},"0\nIns"],
 [{w:2.25},"Left Shift",{w:2.25},"Enter"],
 [{w:2.75},"Right Shift"],
-[{a:7,w:6.25},""],
-[{a:4,h:2},"Enter",{h:2},"+"]
+[{w:6.25},"Space"],
+[{h:2},"Enter",{h:2},"+"]
