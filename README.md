@@ -27,7 +27,12 @@ The key count can be reduced by a bigger spacebar,
 2U backspace, large shift or whatever some people prefer.
 
 ## Key sizes
+
 To see different options, have a look at [keycap sizes](keycap-sizes.md).
+
+## Prism
+
+I finally came up with [Prism](prism.md).
 
 ## Images
 Some users want larger caps even in the ortholinear layout.
@@ -77,9 +82,3 @@ But this layout repeats several of the nav keys if put on the full size keyboard
 Better to be put on a navless:
 
 ![ortholinear keyboard layout navless complete](images/keyboard-layout-ortholinear-navless-complete.png)
-
-# Ortho Linear Prism
-
-Prism the ortholinear keyboard:
-
-![ortholinear keyboard layout prism](images/keyboard-layout-ortholinear-prism.png)
