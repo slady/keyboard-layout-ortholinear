@@ -27,7 +27,7 @@ The key count can be reduced by a bigger spacebar,
 2U backspace, large shift or whatever some people prefer.
 
 ## Key sizes
-To see different options, have a look at [keycap sizes](keycap-sizes).
+To see different options, have a look at [keycap sizes](keycap-sizes.md).
 
 ## Images
 Some users want larger caps even in the ortholinear layout.
