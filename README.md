@@ -15,8 +15,8 @@ Different people prefer different things in different aspects of keyboards.
 
 While the 40% form factor is well covered
 by olkb.com with Planck and Proenic,
-and keyboard layout musings by
-[andy](https://www.smittey.co.uk/the-planck-key-theory),
+and [keyboard layout musings by
+andy](https://www.smittey.co.uk/the-planck-key-theory),
 but the other sizes and form factors are very non-standard.
 
 While the default 60% Layout contains mere 61 keys
