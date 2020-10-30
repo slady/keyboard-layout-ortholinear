@@ -27,18 +27,10 @@ The key count can be reduced by a bigger spacebar,
 2U backspace, large shift or whatever some people prefer.
 
 ## Key sizes
-* Keeping the original keycap set
-* 2U spacebar or 2U backspace etc.
-* 2U for all special keys
-* all keys in 1U
+To see different options, have a look at [keycap sizes](keycap-sizes).
 
 ## Images
 Some users want larger caps even in the ortholinear layout.
-
-### Keycap sizes
-
-To see what we are dealing with, here are the original keycap sizes that are different to 1Ux1U:
-![keycap sizes](images/keycap-sizes.png)
 
 ### 2U
 
