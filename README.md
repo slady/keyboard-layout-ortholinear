@@ -37,7 +37,7 @@ Some users want larger caps even in the ortholinear layout.
 
 ### Keycap sizes
 
-To see what we are dealing with, here are the original keycap sizes that are differet to 1Ux1U:
+To see what we are dealing with, here are the original keycap sizes that are different to 1Ux1U:
 ![keycap sizes](images/keycap-sizes.png)
 
 ### 2U
