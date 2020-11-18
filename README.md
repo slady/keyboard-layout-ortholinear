@@ -37,4 +37,4 @@ I just created a [mind dump](mind-dump.md) instead...
 
 ## Prism
 
-I finally came up with [Prism](prism.md).
+I finally came up with [Prism](https://github.com/slady/prism).
