@@ -62,3 +62,15 @@ But this layout repeats several of the nav keys if put on the full size keyboard
 Better to be put on a navless:
 
 ![ortholinear keyboard layout navless complete](images/keyboard-layout-ortholinear-navless-complete.png)
+
+## 60% Numpad
+
+We can add the numpad to the 60% board.
+
+Either to the right:
+
+![ortholinear keyboard layout 60% numpad right](images/keyboard-layout-ortholinear-60-numpad-right.png)
+
+Or to the center:
+
+![ortholinear keyboard layout 60% numpad center](images/keyboard-layout-ortholinear-60-numpad-center.png)
