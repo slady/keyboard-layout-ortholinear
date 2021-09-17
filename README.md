@@ -35,6 +35,6 @@ To see different options, have a look at [keycap sizes](keycap-sizes.md).
 I wanted to create several ortholiner keyboard layouts,
 I just created a [mind dump](mind-dump.md) instead...
 
-## Prism
+## 100110B
 
-I finally came up with [Prism](https://github.com/slady/prism).
+I finally came up with [100110B](https://github.com/slady/100110B).
